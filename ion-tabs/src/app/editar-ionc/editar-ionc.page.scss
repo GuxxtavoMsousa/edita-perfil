@@ -1,0 +1,39 @@
+.teste{
+    width: 80px;
+    height: 200px;
+    border: 2px solid black;
+    display:inline-block;
+    overflow: hidden;
+    font-size: xx-large;
+    text-align: center;
+    background-color: white;
+    margin: 10px 5px 20px 8.5px;
+    border-radius: 10px;
+    padding:10px;
+    box-shadow: 0px 0px 7px rgb(54, 54, 54);
+    overflow: hidden;
+    
+}
+
+ion-input[type='file'] {
+    display: none;
+}
+.teste ion-label{
+    text-align: center;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    
+}
+.teste ion-button{
+    text-align: center;
+    border-radius: 50%;
+    width: 30px;
+    border: 2px solid rgb(255, 0, 0);
+    --background: white;
+    position: absolute;
+    display: block;
+    margin: 0px 500px;
+
+}
